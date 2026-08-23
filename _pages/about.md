@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: CS @ UCLA
+subtitle: Member of Technical Staff at OpenAI
 
 profile:
   align: right
@@ -23,8 +23,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am Guo (Jason) Liu, a 4th-year undergraduate student at UCLA studying computer science. My interests lie at the intersection of ML and systems.
+Hello! I am Guo (Jason) Liu. I'm currently a Member of Technical Staff working on reliability infrastructure. My interests lie at the intersection of ML and systems.
 
-Currently, I am researching distributed systems with Prof. Konstantinos Kallas. Previously, I interned at Stripe on the Operator Foundations team.
+Previously, I researched distributed systems with Prof. Konstantinos Kallas at UCLA.
 
 Outside of computer science, I think about philosophy and watch soccer.
